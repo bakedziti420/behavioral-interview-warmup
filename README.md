@@ -10,7 +10,7 @@ Tell me about a time that you had to solve a difficult problem, *with code*.
 
 Developers will pair up and take turns trying to answer this prompt.
 
-While one developer is answering the question, the other will be taking notes for at least two "Glow"s and "Grow"s.  The note-taker should try and structure their comments arount the **PTAR** method.  
+While one developer is answering the question, the other will be taking notes for at least two "Glow"s and "Grow"s.  The note-taker should try and structure their comments around the **PTAR** method.  
 
 - **P**: Does the interviewee do a good job describing the **problem**?
 - **T**: Does the interviewee do a good job describing the **task**?
