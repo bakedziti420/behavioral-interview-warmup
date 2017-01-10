@@ -8,6 +8,8 @@ Tell me about a time that you had to solve a difficult problem, *with code*.
 
 ## The Exercise
 
+<!--5 minutes per partner is enough for this -->
+
 Developers will pair up and take turns trying to answer this prompt.
 
 While one developer is answering the question, the other will be taking notes for at least two "Glow"s and "Grow"s.  The note-taker should try and structure their comments around the **PTAR** method.  
